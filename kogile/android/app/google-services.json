@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "88216265352",
+    "firebase_url": "https://kannada-kogile.firebaseio.com",
+    "project_id": "kannada-kogile",
+    "storage_bucket": "kannada-kogile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88216265352:android:4dba09931d949f7377753d",
+        "android_client_info": {
+          "package_name": "com.example.kogile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88216265352-9lbk1tss6m5ctnku7hj2s909uotuqfaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kogile",
+            "certificate_hash": "047d256d62227a25e5196b6d8398439537683cc1"
+          }
+        },
+        {
+          "client_id": "88216265352-0f6n56codtnhq1p9td3q2ret8lokrnbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHYZ7XVFyT5SUJIMYQxgdkf1KctIleg40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88216265352-0f6n56codtnhq1p9td3q2ret8lokrnbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
